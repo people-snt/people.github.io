@@ -23,6 +23,14 @@ The aim of this project is to provide a platform to run a comprehensive analysis
 ![Image](people.gif)
 
 
+### Project Outputs
+
+The project outputs can be summarized as follows:
+* A proof-of-concept using publicly available video streams to monitor social distancing.
+* A data protection impact assessment study, to prove that the system is GDPR compliant. 
+* An integration with systems of the city of Luxembourg to monitor social distancing in public environments.
+* A multi-usage platform that can be used beyond the pandemic to compute privacy preserving statistics on spatio-temporal activities of the urban population.
+
 ### Contact
 
 * Raphaël FRANK, raphael.frank [ at ] uni.lu
