@@ -1,6 +1,6 @@
 ## PEOPLE (Privacy Preserving Monitoring of Social Distancing in Public Environments)
 
-[Image](figures/logo.svg)
+![Image](figures/logo.svg)
 
 ### Home
 
