@@ -1,1 +1,1 @@
-# people.github.io
+# people.io
