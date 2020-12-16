@@ -2,7 +2,7 @@
 
 ### Home
 
-PEOPLE project developed at [SnT](https://wwwen.uni.lu/snt)/[University of Luxembourg](https://wwwen.uni.lu/)/
+PEOPLE project developed at [SnT](https://wwwen.uni.lu/snt)/[University of Luxembourg](https://wwwen.uni.lu/)
 
 ### Description
 
