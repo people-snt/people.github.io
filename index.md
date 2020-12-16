@@ -19,5 +19,5 @@ The aim of this project is to provide a platform to run a comprehensive analysis
 
 ### Contact
 
-Raphaël FRANK, raphael.frank [ at ] uni.lu
-Sofiane LAGRAA, sofiane.lagraa [ at ] uni.lu
+* Raphaël FRANK, raphael.frank [ at ] uni.lu
+* Sofiane LAGRAA, sofiane.lagraa [ at ] uni.lu
