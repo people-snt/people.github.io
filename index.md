@@ -1,8 +1,11 @@
 ## PEOPLE (Privacy Preserving Monitoring of Social Distancing in Public Environments)
 
+![Image](figures/snt.png)![Image](figures/logo_uni.png)![Image](figures/logo_fnr.png)
+
 ### Home
 
-PEOPLE project developed at [SnT](https://wwwen.uni.lu/snt)/[University of Luxembourg](https://wwwen.uni.lu/)
+PEOPLE project developed at the Interdisciplinary Research Centre for Security, Reliability and Trust [SnT](https://wwwen.uni.lu/snt) of the [University of Luxembourg](https://wwwen.uni.lu/)
+This research project will be run under the umbrella of the [360Lab](https://360lab.uni.lu/) at SnT of the University of Luxembourg. It is the first thematic research laboratory focusing on smart mobility.
 
 ### Description
 
