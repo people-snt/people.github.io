@@ -16,9 +16,7 @@ The aim of this project is to provide a platform to run a comprehensive analysis
 
 ### Results
 
-
-[Link](url) and ![Image](src)
-
+![Image](people.gif)
 
 
 ### Contact
